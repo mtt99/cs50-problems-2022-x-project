@@ -1,5 +1,3 @@
-# cs50-problems-2022-x-project
-W10. Final project
 # Cómo Crear Una PÁGINA WEB PROFESIONAL GRATIS 🚀
 #### Video Demo:  <https://www.youtube.com/watch?v=a6I7z7ehKOg>
 #### Description:
